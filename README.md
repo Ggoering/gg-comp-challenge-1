@@ -14,5 +14,5 @@ The image now becomes a small square that resides next to the h1.  The boxes now
 
 
 ### COMPARISON:
-[Original Page](https://github.com/Ggoering/gg-comp-challenge-1/tree/master/photos/origincompSS.png)
+[Original Page](https://ggoering.github.io/gg-comp-challenge-1/photos/origcompSS.png)  
 [Custom Page with reactivity] (https://ggoering.github.io/gg-comp-challenge-1/)
